@@ -1,4 +1,7 @@
 # Movie_Recommendation_System_Using_AWS_SageMaker
+
+![alt text](MovieRecommendation.png) 
+
 This is a movie recommendation system built on AWS SageMaker. SageMaker is partucularly built for training machine learning algorithms. It also has pre-built algorithms that can be directly run. 
 The recommender system is built for three different models- 
 1. Content Based Model: This recommends the top 10 movies to the user using the similarity matrix technique. 
